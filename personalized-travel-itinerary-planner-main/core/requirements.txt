@@ -1,0 +1,5 @@
+streamlit==1.28.1
+boto3
+langchain
+anthropic==0.34.2
+langchain-community
